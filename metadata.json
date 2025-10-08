@@ -1,0 +1,5 @@
+{
+  "name": "Rideshare",
+  "description": "An e-hailing application designed for students in Limpopo, South Africa. This platform facilitates ride requests, ride-sharing with discounts, and offers both cash and card payment options, connecting student drivers with student riders.",
+  "requestFramePermissions": []
+}
